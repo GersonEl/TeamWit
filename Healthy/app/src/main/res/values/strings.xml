@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Healthy</string>
+    <string name="consulta">CONSULTA</string>
+    <string name="ubica_tu_hospital">UBICA TU HOSPITAL</string>
+    <string name="urgencia">URGENCIA</string>
+    <string name="todo">TODO</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="ubica_tu_hospitalito">Ubica tu hospital</string>
+    <string name="consultaMed">Consulta</string>
+    <string name="urgencias">urgencias</string>
+    <string name="ubicacion">ubicacion</string>
+
+    <string-array name="padecimientos">
+        <item>Seleccione una opción:</item>
+        <item>Audtiva</item>
+        <item>Lenguaje</item>
+        <item>Motriz</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
